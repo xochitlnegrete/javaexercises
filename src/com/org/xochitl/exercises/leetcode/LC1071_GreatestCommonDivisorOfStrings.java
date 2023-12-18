@@ -19,7 +19,7 @@ Output: ""
 *
 */
 
-package com.org.xochitl.exercises;
+package com.org.xochitl.exercises.leetcode;
 
 public class LC1071_GreatestCommonDivisorOfStrings {
     public static void main(String[] args) {

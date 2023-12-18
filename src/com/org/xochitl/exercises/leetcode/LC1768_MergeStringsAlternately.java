@@ -34,7 +34,7 @@ word2:    p   q
 merged: a p b q c   d
 * */
 
-package com.org.xochitl.exercises;
+package com.org.xochitl.exercises.leetcode;
 
 public class LC1768_MergeStringsAlternately {
 
